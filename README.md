@@ -9,6 +9,16 @@ A fast and efficient port scanner written in Python.
 - 🌈 Custom banner for a unique touch.
 - 🛠️ Simple and easy-to-use command-line interface.
 
+## 👇 Images 
+
+### Program
+
+<img src="https://github.com/run9c/port-scanner/blob/main/assets/image-1.png">
+
+### Result
+
+<img src="https://github.com/run9c/port-scanner/blob/main/assets/image-2.png">
+
 ## Usage
 1. Install the required dependencies:
 
