@@ -1,0 +1,2 @@
+Port 80: Open
+Port 1980: Open
